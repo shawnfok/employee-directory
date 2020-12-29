@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "name": "Troy Mendoza",
+      "department": "Design",
+      "email": "troy.mendoza@mail.org",
+      "phone": "202-781-9260"
+    },
+    {
+      "id": 2,
+      "image": "https://randomuser.me/api/portraits/men/2.jpg",
+      "name": "Hugh Newman",
+      "department": "Marketing",
+      "email": "hugh.newman@mail.org",
+      "phone": "202-976-9160"
+    },
+    {
+      "id": 3,
+      "image": "https://randomuser.me/api/portraits/women/3.jpg",
+      "name": "Lea Ma",
+      "department": "Logistics",
+      "email": "lea.ma@mail.org",
+      "phone": "202-411-0816"
+    },
+    {
+      "id": 4,
+      "image": "https://randomuser.me/api/portraits/women/4.jpg",
+      "name": "Judith Steward",
+      "department": "Engineering",
+      "email": "judith.steward@mail.org",
+      "phone": "202-200-0341"
+    },
+    {
+      "id": 5,
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "name": "Rivelino Moura",
+      "department": "Management",
+      "email": "rivelino.moura@mail.org",
+      "phone": "202-469-1015"
+    },
+    {
+      "id": 6,
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "name": "Annelie Siegert",
+      "department": "Admin",
+      "email": "annelie.siegert@mail.org",
+      "phone": "202-425-6027"
+    },
+    {
+      "id": 7,
+      "image": "https://randomuser.me/api/portraits/women/7.jpg",
+      "name": "Diana Lucas",
+      "department": "Logistics",
+      "email": "diana.lucas@mail.org",
+      "phone": "202-812-4545"
+    },
+    {
+      "id": 8,
+      "image": "https://randomuser.me/api/portraits/men/8.jpg",
+      "name": "Dennis Newman",
+      "department": "Design",
+      "email": "dennis.newman@mail.org",
+      "phone": "202-858-4186"
+    },
+    {
+      "id": 9,
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "name": "Troy Siegert",
+      "department": "Engineering",
+      "email": "troy.siegert@mail.org",
+      "phone": "202-642-6249"
+    },
+    {
+      "id": 10,
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "name": "Laura Dean",
+      "department": "Engineering",
+      "email": "laura.dean@mail.org",
+      "phone": "202-985-8154"
+    },
+    {
+      "id": 11,
+      "image": "https://randomuser.me/api/portraits/women/11.jpg",
+      "name": "Abby Jennings",
+      "department": "Marketing",
+      "email": "abby.jennings@mail.org",
+      "phone": "202-780-5886"
+    },
+    {
+      "id": 12,
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "name": "Andrew Snyder",
+      "department": "Design",
+      "email": "andrew.snyder@mail.org",
+      "phone": "202-864-4072"
+    },
+    {
+      "id": 13,
+      "image": "https://randomuser.me/api/portraits/men/13.jpg",
+      "name": "Benito Marin",
+      "department": "Engineering",
+      "email": "benito.marin@mail.org",
+      "phone": "202-370-6113"
+    },
+    {
+      "id": 14,
+      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "name": "Nerea Dean",
+      "department": "Sales",
+      "email": "nerea.dean@mail.org",
+      "phone": "202-751-4476"
+    },
+    {
+      "id": 15,
+      "image": "https://randomuser.me/api/portraits/men/15.jpg",
+      "name": "Miro Pakkala",
+      "department": "Admin",
+      "email": "miro.pakkala@mail.org",
+      "phone": "202-781-2749"
+    },
+    {
+      "id": 16,
+      "image": "https://randomuser.me/api/portraits/men/26.jpg",
+      "name": "Maxime Gauthier",
+      "department": "Sales",
+      "email": "maxime.gauthier@mail.org",
+      "phone": "202-245-4151"
+    },
+    {
+      "id": 17,
+      "image": "https://randomuser.me/api/portraits/women/17.jpg",
+      "name": "Emma Joki",
+      "department": "Design",
+      "email": "emma.joki@mail.org",
+      "phone": "202-382-7727"
+    },
+    {
+      "id": 18,
+      "image": "https://randomuser.me/api/portraits/women/18.jpg",
+      "name": "Judith Arias",
+      "department": "Maketing",
+      "email": "judith.arias@mail.org",
+      "phone": "202-322-5000"
+    },
+    {
+      "id": 19,
+      "image": "https://randomuser.me/api/portraits/women/19.jpg",
+      "name": "May Petersen",
+      "department": "Design",
+      "email": "may.petersen@mail.org",
+      "phone": "202-610-1206"
+    },
+    {
+      "id": 20,
+      "image": "https://randomuser.me/api/portraits/women/20.jpg",
+      "name": "Sandy Jones",
+      "department": "Admin",
+      "email": "sandy.jones@mail.org",
+      "phone": "202-968-6086"
+    }
+  ]
