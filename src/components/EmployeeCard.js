@@ -11,7 +11,7 @@ import React from "react";
             />
             <p className="font-bold text-md">{name}</p>
             <p>{dept}</p>
-            <p className="text-blue-500">{email}</p>
+            <p className="text-purple-600">{email}</p>
             <p>{phone}</p>
         </div>
     )

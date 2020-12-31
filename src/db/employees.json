@@ -59,7 +59,7 @@
       "id": 8,
       "image": "https://randomuser.me/api/portraits/men/8.jpg",
       "name": "Dennis Newman",
-      "department": "Design",
+      "department": "Management",
       "email": "dennis.newman@mail.org",
       "phone": "202-858-4186"
     },
@@ -115,7 +115,7 @@
       "id": 15,
       "image": "https://randomuser.me/api/portraits/men/15.jpg",
       "name": "Miro Pakkala",
-      "department": "Admin",
+      "department": "Engineering",
       "email": "miro.pakkala@mail.org",
       "phone": "202-781-2749"
     },
@@ -139,7 +139,7 @@
       "id": 18,
       "image": "https://randomuser.me/api/portraits/women/18.jpg",
       "name": "Judith Arias",
-      "department": "Maketing",
+      "department": "Marketing",
       "email": "judith.arias@mail.org",
       "phone": "202-322-5000"
     },
